@@ -1,0 +1,14 @@
+{
+  "name": "postgresql-dbeaver-docs",
+  "version": "1.0.0",
+  "description": "Tutorial completo de PostgreSQL do básico ao avançado, com foco total no DBeaver",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  }
+}
